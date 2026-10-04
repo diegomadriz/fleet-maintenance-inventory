@@ -1,0 +1,240 @@
+{
+  "calibration_parameter_notes": {
+    "demand.class_parameters.*.active_size_dispersion": "Approximate demand-size family shape rounded to a coarse half-unit grid and perturbed.",
+    "demand.class_parameters.*.active_size_mean": "Approximate active-demand center rounded to whole units and perturbed one grid step.",
+    "demand.class_parameters.*.zero_probability": "Approximate private zero-period share rounded to five percentage points and perturbed one grid step.",
+    "demand.class_proportions.*": "Real class share rounded to a five-percentage-point grid.",
+    "named_parts.*": "Coarse, perturbed behaviour of a real part category with at least four parts; no single part's values.",
+    "reliability.age_effect_direction": "Qualitative direction only; no private coefficient is retained.",
+    "reliability.age_effect_strength": "Qualitative weak/moderate category only; no private magnitude is retained.",
+    "reliability.weibull_scale_hours_range": "Family-level private fit range reduced to coarse 500-hour endpoints and expanded/perturbed.",
+    "reliability.weibull_shape_range": "Family-level private fit range reduced to coarse quarter-unit endpoints and expanded/perturbed.",
+    "telemetry.daily_hours_spread": "Approximate positive-use spread rounded to whole hours and perturbed.",
+    "telemetry.missing_rate": "Approximate coverage gap rounded to five percentage points and perturbed.",
+    "telemetry.positive_daily_hours_center": "Approximate positive-use center rounded to whole hours and perturbed."
+  },
+  "corrective_share_by_class": {
+    "erratic": 0.4,
+    "intermittent": 0.0,
+    "lumpy": 0.4,
+    "note": "Share of each class's parts that are mechanical corrective (the original schedule's scope), rounded to five percentage points.",
+    "smooth": 0.30000000000000004
+  },
+  "demand": {
+    "class_parameters": {
+      "erratic": {
+        "active_size_dispersion": 0.5,
+        "active_size_mean": 6.0,
+        "note": "Approximate zero share and active-demand size shape, rounded coarsely and perturbed.",
+        "zero_probability": 0.25000000000000006
+      },
+      "intermittent": {
+        "active_size_dispersion": 2.0,
+        "active_size_mean": 2.0,
+        "note": "Approximate zero share and active-demand size shape, rounded coarsely and perturbed.",
+        "zero_probability": 0.7
+      },
+      "lumpy": {
+        "active_size_dispersion": 0.5,
+        "active_size_mean": 4.0,
+        "note": "Approximate zero share and active-demand size shape, rounded coarsely and perturbed.",
+        "zero_probability": 0.8
+      },
+      "smooth": {
+        "active_size_dispersion": 0.5,
+        "active_size_mean": 8.0,
+        "note": "Approximate zero share and active-demand size shape, rounded coarsely and perturbed.",
+        "zero_probability": 0.25
+      }
+    },
+    "class_proportions": {
+      "erratic": 0.1,
+      "intermittent": 0.0,
+      "lumpy": 0.8,
+      "note": "Real class mix from the project's own ADI/CV2 classification, rounded to five percentage points.",
+      "smooth": 0.1
+    }
+  },
+  "installed_base": {
+    "note": "Median trucks carrying a part and units per replacement line, rounded and perturbed.",
+    "trucks_with_part": 20.0,
+    "units_per_replacement": 1.5
+  },
+  "modeling": {
+    "croston_alpha": 0.15,
+    "forecast_train_months": 18,
+    "lead_times_days": [
+      5,
+      10,
+      15,
+      30
+    ],
+    "note": "Same settings as the original project; replica results are checked for fidelity against the original.",
+    "replacement_band_quantiles": [
+      0.2,
+      0.8
+    ],
+    "review_days": 30,
+    "service_level": 0.95
+  },
+  "named_parts": [
+    {
+      "active_size_dispersion": 0.5,
+      "active_size_mean": 8.0,
+      "corrective": true,
+      "demand_class": "lumpy",
+      "name": "Drive tire",
+      "trucks_with_part": 35.0,
+      "units_per_replacement": 1.5,
+      "weibull_scale_hours": 500.0,
+      "weibull_shape": 1.0,
+      "zero_probability": 0.6
+    },
+    {
+      "active_size_dispersion": 5.5,
+      "active_size_mean": 5.0,
+      "corrective": true,
+      "demand_class": "lumpy",
+      "name": "Mixer drum bearing",
+      "trucks_with_part": 55.0,
+      "units_per_replacement": 2.0,
+      "weibull_scale_hours": 1000.0,
+      "weibull_shape": 1.0,
+      "zero_probability": 0.45
+    },
+    {
+      "active_size_dispersion": 0.5,
+      "active_size_mean": 3.0,
+      "corrective": true,
+      "demand_class": "lumpy",
+      "name": "Chute hook & band",
+      "trucks_with_part": 20.0,
+      "units_per_replacement": 1.0,
+      "weibull_scale_hours": 1500.0,
+      "weibull_shape": 1.0,
+      "zero_probability": 0.55
+    },
+    {
+      "active_size_dispersion": 2.5,
+      "active_size_mean": 5.0,
+      "corrective": true,
+      "demand_class": "lumpy",
+      "name": "Battery",
+      "trucks_with_part": 45.0,
+      "units_per_replacement": 2.5,
+      "weibull_scale_hours": 500.0,
+      "weibull_shape": 0.75,
+      "zero_probability": 0.55
+    },
+    {
+      "active_size_dispersion": 2.5,
+      "active_size_mean": 3.0,
+      "corrective": false,
+      "demand_class": "lumpy",
+      "name": "Filter",
+      "trucks_with_part": 15.0,
+      "units_per_replacement": 1.0,
+      "weibull_scale_hours": 500.0,
+      "weibull_shape": 1.0,
+      "zero_probability": 0.7
+    },
+    {
+      "active_size_dispersion": 4.0,
+      "active_size_mean": 5.0,
+      "corrective": true,
+      "demand_class": "lumpy",
+      "name": "U-joint",
+      "trucks_with_part": 80.0,
+      "units_per_replacement": 1.5,
+      "weibull_scale_hours": 2500.0,
+      "weibull_shape": 0.75,
+      "zero_probability": 0.4
+    },
+    {
+      "active_size_dispersion": 5.5,
+      "active_size_mean": 3.0,
+      "corrective": true,
+      "demand_class": "erratic",
+      "name": "Air valve",
+      "trucks_with_part": 55.0,
+      "units_per_replacement": 1.0,
+      "weibull_scale_hours": 1000.0,
+      "weibull_shape": 1.0,
+      "zero_probability": 0.6000000000000001
+    }
+  ],
+  "privacy": {
+    "calibration_seed": 918273,
+    "notes": "No row-level values, identifiers, exact counts, exact fits, financial figures, downtime figures, or original model metrics are retained.",
+    "status": "rounded and deterministically perturbed aggregate calibration"
+  },
+  "rare_tail": {
+    "note": "Share of scheduled parts too sparse for a reliability fit and their median installed trucks, rounded and perturbed.",
+    "share_of_scheduled_parts": 0.6000000000000001,
+    "trucks_with_part": 8.0
+  },
+  "reliability": {
+    "age_effect_direction": "longer life with greater age",
+    "age_effect_strength": "weak",
+    "brand_log_time_effects": {
+      "Brand U": 0.0,
+      "Brand V": -0.06,
+      "Brand W": 0.06,
+      "Brand X": 0.0,
+      "Brand Y": 0.12,
+      "Brand Z": -0.1
+    },
+    "note": "Ranges are coarse rounded/perturbed family-level calibration; covariates encode direction and qualitative strength, never an original coefficient.",
+    "replica_age_log_time_coefficient": 0.025,
+    "replica_usage_log_time_coefficient": -0.08,
+    "weibull_scale_hours_range": [
+      1500.0,
+      3000.0
+    ],
+    "weibull_shape_range": [
+      0.75,
+      1.5
+    ]
+  },
+  "replica_design": {
+    "brand_shares": [
+      0.35000000000000003,
+      0.30000000000000004,
+      0.2,
+      0.1,
+      0.05,
+      0.05
+    ],
+    "brands": [
+      "Brand X",
+      "Brand Y",
+      "Brand Z",
+      "Brand W",
+      "Brand V",
+      "Brand U"
+    ],
+    "calendar_end": "2032-12-31",
+    "calendar_start": "2031-01-01",
+    "fleet_size": 160,
+    "part_count": 30,
+    "part_families": [
+      "Part Family A",
+      "Part Family B",
+      "Part Family C",
+      "Part Family D",
+      "Part Family E"
+    ],
+    "random_seed": 101
+  },
+  "telemetry": {
+    "daily_hours_spread": 3.0,
+    "missing_rate": 0.05,
+    "monthly_cv_median": 0.8,
+    "note": "Approximate utilization and coverage patterns, rounded to whole hours or five percentage points and perturbed.",
+    "positive_daily_hours_center": 7.0,
+    "stable_share": 0.15000000000000002,
+    "truck_heterogeneity_cv": 0.25,
+    "weekday_multiplier": 1.1,
+    "weekend_multiplier": 0.55
+  }
+}

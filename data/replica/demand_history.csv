@@ -1,0 +1,1297 @@
+part_id,part_family,demand_class,period,quantity
+drive-tire,Named example,lumpy,2031-01,0
+drive-tire,Named example,lumpy,2031-02,0
+drive-tire,Named example,lumpy,2031-03,16
+drive-tire,Named example,lumpy,2031-04,4
+drive-tire,Named example,lumpy,2031-05,24
+drive-tire,Named example,lumpy,2031-06,3
+drive-tire,Named example,lumpy,2031-07,1
+drive-tire,Named example,lumpy,2031-08,9
+drive-tire,Named example,lumpy,2031-09,0
+drive-tire,Named example,lumpy,2031-10,6
+drive-tire,Named example,lumpy,2031-11,11
+drive-tire,Named example,lumpy,2031-12,3
+drive-tire,Named example,lumpy,2032-01,1
+drive-tire,Named example,lumpy,2032-02,0
+drive-tire,Named example,lumpy,2032-03,3
+drive-tire,Named example,lumpy,2032-04,6
+drive-tire,Named example,lumpy,2032-05,23
+drive-tire,Named example,lumpy,2032-06,7
+drive-tire,Named example,lumpy,2032-07,4
+drive-tire,Named example,lumpy,2032-08,3
+drive-tire,Named example,lumpy,2032-09,1
+drive-tire,Named example,lumpy,2032-10,11
+drive-tire,Named example,lumpy,2032-11,7
+drive-tire,Named example,lumpy,2032-12,8
+mixer-drum-bearing,Named example,lumpy,2031-01,0
+mixer-drum-bearing,Named example,lumpy,2031-02,8
+mixer-drum-bearing,Named example,lumpy,2031-03,3
+mixer-drum-bearing,Named example,lumpy,2031-04,3
+mixer-drum-bearing,Named example,lumpy,2031-05,11
+mixer-drum-bearing,Named example,lumpy,2031-06,8
+mixer-drum-bearing,Named example,lumpy,2031-07,9
+mixer-drum-bearing,Named example,lumpy,2031-08,2
+mixer-drum-bearing,Named example,lumpy,2031-09,3
+mixer-drum-bearing,Named example,lumpy,2031-10,0
+mixer-drum-bearing,Named example,lumpy,2031-11,8
+mixer-drum-bearing,Named example,lumpy,2031-12,15
+mixer-drum-bearing,Named example,lumpy,2032-01,0
+mixer-drum-bearing,Named example,lumpy,2032-02,13
+mixer-drum-bearing,Named example,lumpy,2032-03,6
+mixer-drum-bearing,Named example,lumpy,2032-04,5
+mixer-drum-bearing,Named example,lumpy,2032-05,3
+mixer-drum-bearing,Named example,lumpy,2032-06,0
+mixer-drum-bearing,Named example,lumpy,2032-07,0
+mixer-drum-bearing,Named example,lumpy,2032-08,6
+mixer-drum-bearing,Named example,lumpy,2032-09,0
+mixer-drum-bearing,Named example,lumpy,2032-10,3
+mixer-drum-bearing,Named example,lumpy,2032-11,9
+mixer-drum-bearing,Named example,lumpy,2032-12,0
+chute-hook--band,Named example,lumpy,2031-01,5
+chute-hook--band,Named example,lumpy,2031-02,0
+chute-hook--band,Named example,lumpy,2031-03,1
+chute-hook--band,Named example,lumpy,2031-04,1
+chute-hook--band,Named example,lumpy,2031-05,0
+chute-hook--band,Named example,lumpy,2031-06,1
+chute-hook--band,Named example,lumpy,2031-07,3
+chute-hook--band,Named example,lumpy,2031-08,3
+chute-hook--band,Named example,lumpy,2031-09,2
+chute-hook--band,Named example,lumpy,2031-10,1
+chute-hook--band,Named example,lumpy,2031-11,1
+chute-hook--band,Named example,lumpy,2031-12,0
+chute-hook--band,Named example,lumpy,2032-01,3
+chute-hook--band,Named example,lumpy,2032-02,4
+chute-hook--band,Named example,lumpy,2032-03,3
+chute-hook--band,Named example,lumpy,2032-04,1
+chute-hook--band,Named example,lumpy,2032-05,0
+chute-hook--band,Named example,lumpy,2032-06,2
+chute-hook--band,Named example,lumpy,2032-07,1
+chute-hook--band,Named example,lumpy,2032-08,5
+chute-hook--band,Named example,lumpy,2032-09,0
+chute-hook--band,Named example,lumpy,2032-10,1
+chute-hook--band,Named example,lumpy,2032-11,0
+chute-hook--band,Named example,lumpy,2032-12,1
+battery,Named example,lumpy,2031-01,1
+battery,Named example,lumpy,2031-02,2
+battery,Named example,lumpy,2031-03,0
+battery,Named example,lumpy,2031-04,0
+battery,Named example,lumpy,2031-05,1
+battery,Named example,lumpy,2031-06,5
+battery,Named example,lumpy,2031-07,6
+battery,Named example,lumpy,2031-08,1
+battery,Named example,lumpy,2031-09,0
+battery,Named example,lumpy,2031-10,0
+battery,Named example,lumpy,2031-11,0
+battery,Named example,lumpy,2031-12,5
+battery,Named example,lumpy,2032-01,0
+battery,Named example,lumpy,2032-02,0
+battery,Named example,lumpy,2032-03,0
+battery,Named example,lumpy,2032-04,3
+battery,Named example,lumpy,2032-05,17
+battery,Named example,lumpy,2032-06,48
+battery,Named example,lumpy,2032-07,0
+battery,Named example,lumpy,2032-08,0
+battery,Named example,lumpy,2032-09,1
+battery,Named example,lumpy,2032-10,0
+battery,Named example,lumpy,2032-11,3
+battery,Named example,lumpy,2032-12,0
+filter,Named example,lumpy,2031-01,0
+filter,Named example,lumpy,2031-02,1
+filter,Named example,lumpy,2031-03,12
+filter,Named example,lumpy,2031-04,0
+filter,Named example,lumpy,2031-05,0
+filter,Named example,lumpy,2031-06,0
+filter,Named example,lumpy,2031-07,4
+filter,Named example,lumpy,2031-08,0
+filter,Named example,lumpy,2031-09,0
+filter,Named example,lumpy,2031-10,0
+filter,Named example,lumpy,2031-11,2
+filter,Named example,lumpy,2031-12,2
+filter,Named example,lumpy,2032-01,0
+filter,Named example,lumpy,2032-02,0
+filter,Named example,lumpy,2032-03,0
+filter,Named example,lumpy,2032-04,0
+filter,Named example,lumpy,2032-05,4
+filter,Named example,lumpy,2032-06,0
+filter,Named example,lumpy,2032-07,2
+filter,Named example,lumpy,2032-08,0
+filter,Named example,lumpy,2032-09,4
+filter,Named example,lumpy,2032-10,1
+filter,Named example,lumpy,2032-11,0
+filter,Named example,lumpy,2032-12,3
+u-joint,Named example,lumpy,2031-01,1
+u-joint,Named example,lumpy,2031-02,0
+u-joint,Named example,lumpy,2031-03,0
+u-joint,Named example,lumpy,2031-04,0
+u-joint,Named example,lumpy,2031-05,0
+u-joint,Named example,lumpy,2031-06,1
+u-joint,Named example,lumpy,2031-07,3
+u-joint,Named example,lumpy,2031-08,22
+u-joint,Named example,lumpy,2031-09,0
+u-joint,Named example,lumpy,2031-10,2
+u-joint,Named example,lumpy,2031-11,5
+u-joint,Named example,lumpy,2031-12,8
+u-joint,Named example,lumpy,2032-01,0
+u-joint,Named example,lumpy,2032-02,0
+u-joint,Named example,lumpy,2032-03,1
+u-joint,Named example,lumpy,2032-04,0
+u-joint,Named example,lumpy,2032-05,3
+u-joint,Named example,lumpy,2032-06,3
+u-joint,Named example,lumpy,2032-07,14
+u-joint,Named example,lumpy,2032-08,6
+u-joint,Named example,lumpy,2032-09,1
+u-joint,Named example,lumpy,2032-10,4
+u-joint,Named example,lumpy,2032-11,0
+u-joint,Named example,lumpy,2032-12,7
+air-valve,Named example,erratic,2031-01,3
+air-valve,Named example,erratic,2031-02,4
+air-valve,Named example,erratic,2031-03,12
+air-valve,Named example,erratic,2031-04,4
+air-valve,Named example,erratic,2031-05,8
+air-valve,Named example,erratic,2031-06,9
+air-valve,Named example,erratic,2031-07,0
+air-valve,Named example,erratic,2031-08,1
+air-valve,Named example,erratic,2031-09,1
+air-valve,Named example,erratic,2031-10,0
+air-valve,Named example,erratic,2031-11,0
+air-valve,Named example,erratic,2031-12,16
+air-valve,Named example,erratic,2032-01,1
+air-valve,Named example,erratic,2032-02,4
+air-valve,Named example,erratic,2032-03,0
+air-valve,Named example,erratic,2032-04,4
+air-valve,Named example,erratic,2032-05,0
+air-valve,Named example,erratic,2032-06,2
+air-valve,Named example,erratic,2032-07,1
+air-valve,Named example,erratic,2032-08,2
+air-valve,Named example,erratic,2032-09,1
+air-valve,Named example,erratic,2032-10,1
+air-valve,Named example,erratic,2032-11,3
+air-valve,Named example,erratic,2032-12,4
+part-01,Other,smooth,2031-01,9
+part-01,Other,smooth,2031-02,1
+part-01,Other,smooth,2031-03,10
+part-01,Other,smooth,2031-04,5
+part-01,Other,smooth,2031-05,7
+part-01,Other,smooth,2031-06,0
+part-01,Other,smooth,2031-07,8
+part-01,Other,smooth,2031-08,6
+part-01,Other,smooth,2031-09,5
+part-01,Other,smooth,2031-10,4
+part-01,Other,smooth,2031-11,10
+part-01,Other,smooth,2031-12,5
+part-01,Other,smooth,2032-01,8
+part-01,Other,smooth,2032-02,2
+part-01,Other,smooth,2032-03,8
+part-01,Other,smooth,2032-04,3
+part-01,Other,smooth,2032-05,1
+part-01,Other,smooth,2032-06,14
+part-01,Other,smooth,2032-07,8
+part-01,Other,smooth,2032-08,7
+part-01,Other,smooth,2032-09,3
+part-01,Other,smooth,2032-10,1
+part-01,Other,smooth,2032-11,0
+part-01,Other,smooth,2032-12,5
+part-02,Other,smooth,2031-01,8
+part-02,Other,smooth,2031-02,2
+part-02,Other,smooth,2031-03,5
+part-02,Other,smooth,2031-04,1
+part-02,Other,smooth,2031-05,7
+part-02,Other,smooth,2031-06,2
+part-02,Other,smooth,2031-07,2
+part-02,Other,smooth,2031-08,8
+part-02,Other,smooth,2031-09,5
+part-02,Other,smooth,2031-10,2
+part-02,Other,smooth,2031-11,12
+part-02,Other,smooth,2031-12,8
+part-02,Other,smooth,2032-01,0
+part-02,Other,smooth,2032-02,4
+part-02,Other,smooth,2032-03,4
+part-02,Other,smooth,2032-04,1
+part-02,Other,smooth,2032-05,8
+part-02,Other,smooth,2032-06,5
+part-02,Other,smooth,2032-07,3
+part-02,Other,smooth,2032-08,17
+part-02,Other,smooth,2032-09,9
+part-02,Other,smooth,2032-10,3
+part-02,Other,smooth,2032-11,0
+part-02,Other,smooth,2032-12,0
+part-03,Other,lumpy,2031-01,0
+part-03,Other,lumpy,2031-02,0
+part-03,Other,lumpy,2031-03,1
+part-03,Other,lumpy,2031-04,2
+part-03,Other,lumpy,2031-05,0
+part-03,Other,lumpy,2031-06,0
+part-03,Other,lumpy,2031-07,0
+part-03,Other,lumpy,2031-08,0
+part-03,Other,lumpy,2031-09,0
+part-03,Other,lumpy,2031-10,0
+part-03,Other,lumpy,2031-11,1
+part-03,Other,lumpy,2031-12,0
+part-03,Other,lumpy,2032-01,2
+part-03,Other,lumpy,2032-02,1
+part-03,Other,lumpy,2032-03,0
+part-03,Other,lumpy,2032-04,0
+part-03,Other,lumpy,2032-05,0
+part-03,Other,lumpy,2032-06,0
+part-03,Other,lumpy,2032-07,0
+part-03,Other,lumpy,2032-08,0
+part-03,Other,lumpy,2032-09,1
+part-03,Other,lumpy,2032-10,0
+part-03,Other,lumpy,2032-11,0
+part-03,Other,lumpy,2032-12,3
+part-04,Other,lumpy,2031-01,0
+part-04,Other,lumpy,2031-02,0
+part-04,Other,lumpy,2031-03,0
+part-04,Other,lumpy,2031-04,1
+part-04,Other,lumpy,2031-05,0
+part-04,Other,lumpy,2031-06,0
+part-04,Other,lumpy,2031-07,2
+part-04,Other,lumpy,2031-08,2
+part-04,Other,lumpy,2031-09,1
+part-04,Other,lumpy,2031-10,3
+part-04,Other,lumpy,2031-11,14
+part-04,Other,lumpy,2031-12,0
+part-04,Other,lumpy,2032-01,0
+part-04,Other,lumpy,2032-02,0
+part-04,Other,lumpy,2032-03,0
+part-04,Other,lumpy,2032-04,0
+part-04,Other,lumpy,2032-05,3
+part-04,Other,lumpy,2032-06,3
+part-04,Other,lumpy,2032-07,5
+part-04,Other,lumpy,2032-08,2
+part-04,Other,lumpy,2032-09,0
+part-04,Other,lumpy,2032-10,7
+part-04,Other,lumpy,2032-11,0
+part-04,Other,lumpy,2032-12,0
+part-05,Other,lumpy,2031-01,10
+part-05,Other,lumpy,2031-02,0
+part-05,Other,lumpy,2031-03,0
+part-05,Other,lumpy,2031-04,0
+part-05,Other,lumpy,2031-05,0
+part-05,Other,lumpy,2031-06,0
+part-05,Other,lumpy,2031-07,1
+part-05,Other,lumpy,2031-08,0
+part-05,Other,lumpy,2031-09,4
+part-05,Other,lumpy,2031-10,0
+part-05,Other,lumpy,2031-11,0
+part-05,Other,lumpy,2031-12,0
+part-05,Other,lumpy,2032-01,0
+part-05,Other,lumpy,2032-02,2
+part-05,Other,lumpy,2032-03,0
+part-05,Other,lumpy,2032-04,2
+part-05,Other,lumpy,2032-05,3
+part-05,Other,lumpy,2032-06,1
+part-05,Other,lumpy,2032-07,0
+part-05,Other,lumpy,2032-08,1
+part-05,Other,lumpy,2032-09,0
+part-05,Other,lumpy,2032-10,0
+part-05,Other,lumpy,2032-11,0
+part-05,Other,lumpy,2032-12,7
+part-06,Other,lumpy,2031-01,2
+part-06,Other,lumpy,2031-02,0
+part-06,Other,lumpy,2031-03,0
+part-06,Other,lumpy,2031-04,0
+part-06,Other,lumpy,2031-05,0
+part-06,Other,lumpy,2031-06,1
+part-06,Other,lumpy,2031-07,3
+part-06,Other,lumpy,2031-08,2
+part-06,Other,lumpy,2031-09,0
+part-06,Other,lumpy,2031-10,0
+part-06,Other,lumpy,2031-11,0
+part-06,Other,lumpy,2031-12,3
+part-06,Other,lumpy,2032-01,0
+part-06,Other,lumpy,2032-02,0
+part-06,Other,lumpy,2032-03,0
+part-06,Other,lumpy,2032-04,0
+part-06,Other,lumpy,2032-05,0
+part-06,Other,lumpy,2032-06,3
+part-06,Other,lumpy,2032-07,0
+part-06,Other,lumpy,2032-08,3
+part-06,Other,lumpy,2032-09,0
+part-06,Other,lumpy,2032-10,0
+part-06,Other,lumpy,2032-11,2
+part-06,Other,lumpy,2032-12,0
+part-07,Other,erratic,2031-01,19
+part-07,Other,erratic,2031-02,21
+part-07,Other,erratic,2031-03,1
+part-07,Other,erratic,2031-04,2
+part-07,Other,erratic,2031-05,0
+part-07,Other,erratic,2031-06,13
+part-07,Other,erratic,2031-07,23
+part-07,Other,erratic,2031-08,9
+part-07,Other,erratic,2031-09,5
+part-07,Other,erratic,2031-10,14
+part-07,Other,erratic,2031-11,6
+part-07,Other,erratic,2031-12,14
+part-07,Other,erratic,2032-01,8
+part-07,Other,erratic,2032-02,9
+part-07,Other,erratic,2032-03,2
+part-07,Other,erratic,2032-04,4
+part-07,Other,erratic,2032-05,0
+part-07,Other,erratic,2032-06,18
+part-07,Other,erratic,2032-07,7
+part-07,Other,erratic,2032-08,18
+part-07,Other,erratic,2032-09,9
+part-07,Other,erratic,2032-10,5
+part-07,Other,erratic,2032-11,0
+part-07,Other,erratic,2032-12,6
+part-08,Other,smooth,2031-01,1
+part-08,Other,smooth,2031-02,4
+part-08,Other,smooth,2031-03,5
+part-08,Other,smooth,2031-04,5
+part-08,Other,smooth,2031-05,6
+part-08,Other,smooth,2031-06,1
+part-08,Other,smooth,2031-07,8
+part-08,Other,smooth,2031-08,7
+part-08,Other,smooth,2031-09,1
+part-08,Other,smooth,2031-10,8
+part-08,Other,smooth,2031-11,1
+part-08,Other,smooth,2031-12,0
+part-08,Other,smooth,2032-01,6
+part-08,Other,smooth,2032-02,6
+part-08,Other,smooth,2032-03,0
+part-08,Other,smooth,2032-04,2
+part-08,Other,smooth,2032-05,5
+part-08,Other,smooth,2032-06,6
+part-08,Other,smooth,2032-07,4
+part-08,Other,smooth,2032-08,7
+part-08,Other,smooth,2032-09,3
+part-08,Other,smooth,2032-10,1
+part-08,Other,smooth,2032-11,6
+part-08,Other,smooth,2032-12,8
+part-09,Other,lumpy,2031-01,0
+part-09,Other,lumpy,2031-02,2
+part-09,Other,lumpy,2031-03,0
+part-09,Other,lumpy,2031-04,0
+part-09,Other,lumpy,2031-05,0
+part-09,Other,lumpy,2031-06,1
+part-09,Other,lumpy,2031-07,0
+part-09,Other,lumpy,2031-08,0
+part-09,Other,lumpy,2031-09,1
+part-09,Other,lumpy,2031-10,2
+part-09,Other,lumpy,2031-11,0
+part-09,Other,lumpy,2031-12,16
+part-09,Other,lumpy,2032-01,2
+part-09,Other,lumpy,2032-02,1
+part-09,Other,lumpy,2032-03,0
+part-09,Other,lumpy,2032-04,0
+part-09,Other,lumpy,2032-05,0
+part-09,Other,lumpy,2032-06,0
+part-09,Other,lumpy,2032-07,0
+part-09,Other,lumpy,2032-08,15
+part-09,Other,lumpy,2032-09,3
+part-09,Other,lumpy,2032-10,0
+part-09,Other,lumpy,2032-11,0
+part-09,Other,lumpy,2032-12,0
+part-10,Other,smooth,2031-01,2
+part-10,Other,smooth,2031-02,4
+part-10,Other,smooth,2031-03,5
+part-10,Other,smooth,2031-04,6
+part-10,Other,smooth,2031-05,6
+part-10,Other,smooth,2031-06,6
+part-10,Other,smooth,2031-07,6
+part-10,Other,smooth,2031-08,1
+part-10,Other,smooth,2031-09,12
+part-10,Other,smooth,2031-10,11
+part-10,Other,smooth,2031-11,1
+part-10,Other,smooth,2031-12,0
+part-10,Other,smooth,2032-01,5
+part-10,Other,smooth,2032-02,6
+part-10,Other,smooth,2032-03,0
+part-10,Other,smooth,2032-04,8
+part-10,Other,smooth,2032-05,9
+part-10,Other,smooth,2032-06,6
+part-10,Other,smooth,2032-07,6
+part-10,Other,smooth,2032-08,2
+part-10,Other,smooth,2032-09,3
+part-10,Other,smooth,2032-10,6
+part-10,Other,smooth,2032-11,6
+part-10,Other,smooth,2032-12,3
+part-11,Other,lumpy,2031-01,4
+part-11,Other,lumpy,2031-02,0
+part-11,Other,lumpy,2031-03,0
+part-11,Other,lumpy,2031-04,6
+part-11,Other,lumpy,2031-05,0
+part-11,Other,lumpy,2031-06,0
+part-11,Other,lumpy,2031-07,0
+part-11,Other,lumpy,2031-08,2
+part-11,Other,lumpy,2031-09,0
+part-11,Other,lumpy,2031-10,0
+part-11,Other,lumpy,2031-11,0
+part-11,Other,lumpy,2031-12,0
+part-11,Other,lumpy,2032-01,0
+part-11,Other,lumpy,2032-02,14
+part-11,Other,lumpy,2032-03,0
+part-11,Other,lumpy,2032-04,5
+part-11,Other,lumpy,2032-05,0
+part-11,Other,lumpy,2032-06,3
+part-11,Other,lumpy,2032-07,0
+part-11,Other,lumpy,2032-08,1
+part-11,Other,lumpy,2032-09,0
+part-11,Other,lumpy,2032-10,0
+part-11,Other,lumpy,2032-11,0
+part-11,Other,lumpy,2032-12,0
+part-12,Other,erratic,2031-01,13
+part-12,Other,erratic,2031-02,6
+part-12,Other,erratic,2031-03,7
+part-12,Other,erratic,2031-04,8
+part-12,Other,erratic,2031-05,11
+part-12,Other,erratic,2031-06,2
+part-12,Other,erratic,2031-07,1
+part-12,Other,erratic,2031-08,4
+part-12,Other,erratic,2031-09,3
+part-12,Other,erratic,2031-10,5
+part-12,Other,erratic,2031-11,4
+part-12,Other,erratic,2031-12,3
+part-12,Other,erratic,2032-01,1
+part-12,Other,erratic,2032-02,17
+part-12,Other,erratic,2032-03,19
+part-12,Other,erratic,2032-04,12
+part-12,Other,erratic,2032-05,4
+part-12,Other,erratic,2032-06,11
+part-12,Other,erratic,2032-07,2
+part-12,Other,erratic,2032-08,1
+part-12,Other,erratic,2032-09,17
+part-12,Other,erratic,2032-10,11
+part-12,Other,erratic,2032-11,2
+part-12,Other,erratic,2032-12,16
+part-13,Other,lumpy,2031-01,0
+part-13,Other,lumpy,2031-02,0
+part-13,Other,lumpy,2031-03,0
+part-13,Other,lumpy,2031-04,1
+part-13,Other,lumpy,2031-05,1
+part-13,Other,lumpy,2031-06,3
+part-13,Other,lumpy,2031-07,9
+part-13,Other,lumpy,2031-08,6
+part-13,Other,lumpy,2031-09,0
+part-13,Other,lumpy,2031-10,0
+part-13,Other,lumpy,2031-11,0
+part-13,Other,lumpy,2031-12,0
+part-13,Other,lumpy,2032-01,0
+part-13,Other,lumpy,2032-02,2
+part-13,Other,lumpy,2032-03,0
+part-13,Other,lumpy,2032-04,0
+part-13,Other,lumpy,2032-05,2
+part-13,Other,lumpy,2032-06,7
+part-13,Other,lumpy,2032-07,0
+part-13,Other,lumpy,2032-08,0
+part-13,Other,lumpy,2032-09,3
+part-13,Other,lumpy,2032-10,12
+part-13,Other,lumpy,2032-11,0
+part-13,Other,lumpy,2032-12,0
+part-14,Other,lumpy,2031-01,0
+part-14,Other,lumpy,2031-02,0
+part-14,Other,lumpy,2031-03,4
+part-14,Other,lumpy,2031-04,1
+part-14,Other,lumpy,2031-05,0
+part-14,Other,lumpy,2031-06,0
+part-14,Other,lumpy,2031-07,0
+part-14,Other,lumpy,2031-08,1
+part-14,Other,lumpy,2031-09,0
+part-14,Other,lumpy,2031-10,0
+part-14,Other,lumpy,2031-11,0
+part-14,Other,lumpy,2031-12,0
+part-14,Other,lumpy,2032-01,0
+part-14,Other,lumpy,2032-02,0
+part-14,Other,lumpy,2032-03,12
+part-14,Other,lumpy,2032-04,0
+part-14,Other,lumpy,2032-05,2
+part-14,Other,lumpy,2032-06,0
+part-14,Other,lumpy,2032-07,3
+part-14,Other,lumpy,2032-08,6
+part-14,Other,lumpy,2032-09,0
+part-14,Other,lumpy,2032-10,0
+part-14,Other,lumpy,2032-11,1
+part-14,Other,lumpy,2032-12,0
+part-15,Other,smooth,2031-01,6
+part-15,Other,smooth,2031-02,10
+part-15,Other,smooth,2031-03,6
+part-15,Other,smooth,2031-04,2
+part-15,Other,smooth,2031-05,2
+part-15,Other,smooth,2031-06,8
+part-15,Other,smooth,2031-07,3
+part-15,Other,smooth,2031-08,8
+part-15,Other,smooth,2031-09,0
+part-15,Other,smooth,2031-10,5
+part-15,Other,smooth,2031-11,1
+part-15,Other,smooth,2031-12,2
+part-15,Other,smooth,2032-01,3
+part-15,Other,smooth,2032-02,5
+part-15,Other,smooth,2032-03,5
+part-15,Other,smooth,2032-04,11
+part-15,Other,smooth,2032-05,8
+part-15,Other,smooth,2032-06,2
+part-15,Other,smooth,2032-07,6
+part-15,Other,smooth,2032-08,1
+part-15,Other,smooth,2032-09,5
+part-15,Other,smooth,2032-10,3
+part-15,Other,smooth,2032-11,8
+part-15,Other,smooth,2032-12,4
+part-16,Other,lumpy,2031-01,1
+part-16,Other,lumpy,2031-02,0
+part-16,Other,lumpy,2031-03,4
+part-16,Other,lumpy,2031-04,0
+part-16,Other,lumpy,2031-05,0
+part-16,Other,lumpy,2031-06,0
+part-16,Other,lumpy,2031-07,0
+part-16,Other,lumpy,2031-08,3
+part-16,Other,lumpy,2031-09,1
+part-16,Other,lumpy,2031-10,0
+part-16,Other,lumpy,2031-11,7
+part-16,Other,lumpy,2031-12,0
+part-16,Other,lumpy,2032-01,2
+part-16,Other,lumpy,2032-02,1
+part-16,Other,lumpy,2032-03,1
+part-16,Other,lumpy,2032-04,7
+part-16,Other,lumpy,2032-05,1
+part-16,Other,lumpy,2032-06,0
+part-16,Other,lumpy,2032-07,0
+part-16,Other,lumpy,2032-08,0
+part-16,Other,lumpy,2032-09,0
+part-16,Other,lumpy,2032-10,0
+part-16,Other,lumpy,2032-11,0
+part-16,Other,lumpy,2032-12,0
+part-17,Other,lumpy,2031-01,1
+part-17,Other,lumpy,2031-02,0
+part-17,Other,lumpy,2031-03,1
+part-17,Other,lumpy,2031-04,5
+part-17,Other,lumpy,2031-05,0
+part-17,Other,lumpy,2031-06,0
+part-17,Other,lumpy,2031-07,0
+part-17,Other,lumpy,2031-08,0
+part-17,Other,lumpy,2031-09,0
+part-17,Other,lumpy,2031-10,1
+part-17,Other,lumpy,2031-11,0
+part-17,Other,lumpy,2031-12,0
+part-17,Other,lumpy,2032-01,5
+part-17,Other,lumpy,2032-02,0
+part-17,Other,lumpy,2032-03,0
+part-17,Other,lumpy,2032-04,0
+part-17,Other,lumpy,2032-05,1
+part-17,Other,lumpy,2032-06,1
+part-17,Other,lumpy,2032-07,0
+part-17,Other,lumpy,2032-08,0
+part-17,Other,lumpy,2032-09,0
+part-17,Other,lumpy,2032-10,1
+part-17,Other,lumpy,2032-11,1
+part-17,Other,lumpy,2032-12,1
+part-18,Other,erratic,2031-01,6
+part-18,Other,erratic,2031-02,22
+part-18,Other,erratic,2031-03,31
+part-18,Other,erratic,2031-04,9
+part-18,Other,erratic,2031-05,5
+part-18,Other,erratic,2031-06,2
+part-18,Other,erratic,2031-07,0
+part-18,Other,erratic,2031-08,4
+part-18,Other,erratic,2031-09,5
+part-18,Other,erratic,2031-10,8
+part-18,Other,erratic,2031-11,3
+part-18,Other,erratic,2031-12,15
+part-18,Other,erratic,2032-01,2
+part-18,Other,erratic,2032-02,6
+part-18,Other,erratic,2032-03,2
+part-18,Other,erratic,2032-04,5
+part-18,Other,erratic,2032-05,8
+part-18,Other,erratic,2032-06,2
+part-18,Other,erratic,2032-07,12
+part-18,Other,erratic,2032-08,4
+part-18,Other,erratic,2032-09,4
+part-18,Other,erratic,2032-10,1
+part-18,Other,erratic,2032-11,2
+part-18,Other,erratic,2032-12,5
+part-19,Other,lumpy,2031-01,0
+part-19,Other,lumpy,2031-02,1
+part-19,Other,lumpy,2031-03,0
+part-19,Other,lumpy,2031-04,0
+part-19,Other,lumpy,2031-05,6
+part-19,Other,lumpy,2031-06,0
+part-19,Other,lumpy,2031-07,4
+part-19,Other,lumpy,2031-08,0
+part-19,Other,lumpy,2031-09,0
+part-19,Other,lumpy,2031-10,0
+part-19,Other,lumpy,2031-11,0
+part-19,Other,lumpy,2031-12,0
+part-19,Other,lumpy,2032-01,6
+part-19,Other,lumpy,2032-02,4
+part-19,Other,lumpy,2032-03,0
+part-19,Other,lumpy,2032-04,9
+part-19,Other,lumpy,2032-05,2
+part-19,Other,lumpy,2032-06,0
+part-19,Other,lumpy,2032-07,2
+part-19,Other,lumpy,2032-08,0
+part-19,Other,lumpy,2032-09,0
+part-19,Other,lumpy,2032-10,2
+part-19,Other,lumpy,2032-11,0
+part-19,Other,lumpy,2032-12,0
+part-20,Other,lumpy,2031-01,0
+part-20,Other,lumpy,2031-02,0
+part-20,Other,lumpy,2031-03,3
+part-20,Other,lumpy,2031-04,0
+part-20,Other,lumpy,2031-05,0
+part-20,Other,lumpy,2031-06,1
+part-20,Other,lumpy,2031-07,1
+part-20,Other,lumpy,2031-08,1
+part-20,Other,lumpy,2031-09,1
+part-20,Other,lumpy,2031-10,0
+part-20,Other,lumpy,2031-11,0
+part-20,Other,lumpy,2031-12,0
+part-20,Other,lumpy,2032-01,10
+part-20,Other,lumpy,2032-02,0
+part-20,Other,lumpy,2032-03,1
+part-20,Other,lumpy,2032-04,6
+part-20,Other,lumpy,2032-05,9
+part-20,Other,lumpy,2032-06,0
+part-20,Other,lumpy,2032-07,0
+part-20,Other,lumpy,2032-08,0
+part-20,Other,lumpy,2032-09,10
+part-20,Other,lumpy,2032-10,0
+part-20,Other,lumpy,2032-11,1
+part-20,Other,lumpy,2032-12,0
+part-21,Other,lumpy,2031-01,3
+part-21,Other,lumpy,2031-02,0
+part-21,Other,lumpy,2031-03,0
+part-21,Other,lumpy,2031-04,0
+part-21,Other,lumpy,2031-05,2
+part-21,Other,lumpy,2031-06,0
+part-21,Other,lumpy,2031-07,0
+part-21,Other,lumpy,2031-08,1
+part-21,Other,lumpy,2031-09,0
+part-21,Other,lumpy,2031-10,0
+part-21,Other,lumpy,2031-11,0
+part-21,Other,lumpy,2031-12,0
+part-21,Other,lumpy,2032-01,1
+part-21,Other,lumpy,2032-02,0
+part-21,Other,lumpy,2032-03,0
+part-21,Other,lumpy,2032-04,0
+part-21,Other,lumpy,2032-05,3
+part-21,Other,lumpy,2032-06,3
+part-21,Other,lumpy,2032-07,0
+part-21,Other,lumpy,2032-08,1
+part-21,Other,lumpy,2032-09,4
+part-21,Other,lumpy,2032-10,1
+part-21,Other,lumpy,2032-11,0
+part-21,Other,lumpy,2032-12,0
+part-22,Other,erratic,2031-01,4
+part-22,Other,erratic,2031-02,0
+part-22,Other,erratic,2031-03,10
+part-22,Other,erratic,2031-04,3
+part-22,Other,erratic,2031-05,11
+part-22,Other,erratic,2031-06,10
+part-22,Other,erratic,2031-07,15
+part-22,Other,erratic,2031-08,20
+part-22,Other,erratic,2031-09,6
+part-22,Other,erratic,2031-10,9
+part-22,Other,erratic,2031-11,8
+part-22,Other,erratic,2031-12,2
+part-22,Other,erratic,2032-01,25
+part-22,Other,erratic,2032-02,13
+part-22,Other,erratic,2032-03,8
+part-22,Other,erratic,2032-04,12
+part-22,Other,erratic,2032-05,11
+part-22,Other,erratic,2032-06,5
+part-22,Other,erratic,2032-07,12
+part-22,Other,erratic,2032-08,12
+part-22,Other,erratic,2032-09,1
+part-22,Other,erratic,2032-10,15
+part-22,Other,erratic,2032-11,5
+part-22,Other,erratic,2032-12,1
+part-23,Other,lumpy,2031-01,13
+part-23,Other,lumpy,2031-02,2
+part-23,Other,lumpy,2031-03,0
+part-23,Other,lumpy,2031-04,0
+part-23,Other,lumpy,2031-05,6
+part-23,Other,lumpy,2031-06,0
+part-23,Other,lumpy,2031-07,0
+part-23,Other,lumpy,2031-08,12
+part-23,Other,lumpy,2031-09,0
+part-23,Other,lumpy,2031-10,5
+part-23,Other,lumpy,2031-11,10
+part-23,Other,lumpy,2031-12,0
+part-23,Other,lumpy,2032-01,2
+part-23,Other,lumpy,2032-02,2
+part-23,Other,lumpy,2032-03,5
+part-23,Other,lumpy,2032-04,1
+part-23,Other,lumpy,2032-05,6
+part-23,Other,lumpy,2032-06,0
+part-23,Other,lumpy,2032-07,0
+part-23,Other,lumpy,2032-08,0
+part-23,Other,lumpy,2032-09,0
+part-23,Other,lumpy,2032-10,0
+part-23,Other,lumpy,2032-11,1
+part-23,Other,lumpy,2032-12,0
+rare-01,Rare,lumpy,2031-01,0
+rare-01,Rare,lumpy,2031-02,0
+rare-01,Rare,lumpy,2031-03,0
+rare-01,Rare,lumpy,2031-04,0
+rare-01,Rare,lumpy,2031-05,0
+rare-01,Rare,lumpy,2031-06,0
+rare-01,Rare,lumpy,2031-07,0
+rare-01,Rare,lumpy,2031-08,0
+rare-01,Rare,lumpy,2031-09,0
+rare-01,Rare,lumpy,2031-10,0
+rare-01,Rare,lumpy,2031-11,0
+rare-01,Rare,lumpy,2031-12,6
+rare-01,Rare,lumpy,2032-01,0
+rare-01,Rare,lumpy,2032-02,0
+rare-01,Rare,lumpy,2032-03,0
+rare-01,Rare,lumpy,2032-04,0
+rare-01,Rare,lumpy,2032-05,0
+rare-01,Rare,lumpy,2032-06,0
+rare-01,Rare,lumpy,2032-07,0
+rare-01,Rare,lumpy,2032-08,0
+rare-01,Rare,lumpy,2032-09,0
+rare-01,Rare,lumpy,2032-10,3
+rare-01,Rare,lumpy,2032-11,0
+rare-01,Rare,lumpy,2032-12,0
+rare-02,Rare,lumpy,2031-01,0
+rare-02,Rare,lumpy,2031-02,0
+rare-02,Rare,lumpy,2031-03,0
+rare-02,Rare,lumpy,2031-04,0
+rare-02,Rare,lumpy,2031-05,0
+rare-02,Rare,lumpy,2031-06,0
+rare-02,Rare,lumpy,2031-07,0
+rare-02,Rare,lumpy,2031-08,0
+rare-02,Rare,lumpy,2031-09,0
+rare-02,Rare,lumpy,2031-10,0
+rare-02,Rare,lumpy,2031-11,0
+rare-02,Rare,lumpy,2031-12,0
+rare-02,Rare,lumpy,2032-01,0
+rare-02,Rare,lumpy,2032-02,0
+rare-02,Rare,lumpy,2032-03,0
+rare-02,Rare,lumpy,2032-04,0
+rare-02,Rare,lumpy,2032-05,0
+rare-02,Rare,lumpy,2032-06,0
+rare-02,Rare,lumpy,2032-07,1
+rare-02,Rare,lumpy,2032-08,0
+rare-02,Rare,lumpy,2032-09,0
+rare-02,Rare,lumpy,2032-10,0
+rare-02,Rare,lumpy,2032-11,0
+rare-02,Rare,lumpy,2032-12,0
+rare-03,Rare,lumpy,2031-01,0
+rare-03,Rare,lumpy,2031-02,1
+rare-03,Rare,lumpy,2031-03,0
+rare-03,Rare,lumpy,2031-04,0
+rare-03,Rare,lumpy,2031-05,0
+rare-03,Rare,lumpy,2031-06,0
+rare-03,Rare,lumpy,2031-07,0
+rare-03,Rare,lumpy,2031-08,0
+rare-03,Rare,lumpy,2031-09,2
+rare-03,Rare,lumpy,2031-10,0
+rare-03,Rare,lumpy,2031-11,0
+rare-03,Rare,lumpy,2031-12,0
+rare-03,Rare,lumpy,2032-01,0
+rare-03,Rare,lumpy,2032-02,0
+rare-03,Rare,lumpy,2032-03,1
+rare-03,Rare,lumpy,2032-04,0
+rare-03,Rare,lumpy,2032-05,0
+rare-03,Rare,lumpy,2032-06,0
+rare-03,Rare,lumpy,2032-07,0
+rare-03,Rare,lumpy,2032-08,2
+rare-03,Rare,lumpy,2032-09,0
+rare-03,Rare,lumpy,2032-10,6
+rare-03,Rare,lumpy,2032-11,0
+rare-03,Rare,lumpy,2032-12,0
+rare-04,Rare,lumpy,2031-01,0
+rare-04,Rare,lumpy,2031-02,0
+rare-04,Rare,lumpy,2031-03,0
+rare-04,Rare,lumpy,2031-04,0
+rare-04,Rare,lumpy,2031-05,0
+rare-04,Rare,lumpy,2031-06,0
+rare-04,Rare,lumpy,2031-07,0
+rare-04,Rare,lumpy,2031-08,0
+rare-04,Rare,lumpy,2031-09,0
+rare-04,Rare,lumpy,2031-10,0
+rare-04,Rare,lumpy,2031-11,0
+rare-04,Rare,lumpy,2031-12,0
+rare-04,Rare,lumpy,2032-01,0
+rare-04,Rare,lumpy,2032-02,0
+rare-04,Rare,lumpy,2032-03,0
+rare-04,Rare,lumpy,2032-04,0
+rare-04,Rare,lumpy,2032-05,0
+rare-04,Rare,lumpy,2032-06,0
+rare-04,Rare,lumpy,2032-07,0
+rare-04,Rare,lumpy,2032-08,0
+rare-04,Rare,lumpy,2032-09,0
+rare-04,Rare,lumpy,2032-10,7
+rare-04,Rare,lumpy,2032-11,0
+rare-04,Rare,lumpy,2032-12,0
+rare-05,Rare,lumpy,2031-01,0
+rare-05,Rare,lumpy,2031-02,0
+rare-05,Rare,lumpy,2031-03,0
+rare-05,Rare,lumpy,2031-04,0
+rare-05,Rare,lumpy,2031-05,0
+rare-05,Rare,lumpy,2031-06,0
+rare-05,Rare,lumpy,2031-07,0
+rare-05,Rare,lumpy,2031-08,0
+rare-05,Rare,lumpy,2031-09,0
+rare-05,Rare,lumpy,2031-10,0
+rare-05,Rare,lumpy,2031-11,0
+rare-05,Rare,lumpy,2031-12,0
+rare-05,Rare,lumpy,2032-01,0
+rare-05,Rare,lumpy,2032-02,0
+rare-05,Rare,lumpy,2032-03,0
+rare-05,Rare,lumpy,2032-04,0
+rare-05,Rare,lumpy,2032-05,0
+rare-05,Rare,lumpy,2032-06,0
+rare-05,Rare,lumpy,2032-07,0
+rare-05,Rare,lumpy,2032-08,0
+rare-05,Rare,lumpy,2032-09,0
+rare-05,Rare,lumpy,2032-10,0
+rare-05,Rare,lumpy,2032-11,0
+rare-05,Rare,lumpy,2032-12,0
+rare-06,Rare,lumpy,2031-01,2
+rare-06,Rare,lumpy,2031-02,4
+rare-06,Rare,lumpy,2031-03,0
+rare-06,Rare,lumpy,2031-04,1
+rare-06,Rare,lumpy,2031-05,0
+rare-06,Rare,lumpy,2031-06,0
+rare-06,Rare,lumpy,2031-07,0
+rare-06,Rare,lumpy,2031-08,1
+rare-06,Rare,lumpy,2031-09,0
+rare-06,Rare,lumpy,2031-10,0
+rare-06,Rare,lumpy,2031-11,3
+rare-06,Rare,lumpy,2031-12,16
+rare-06,Rare,lumpy,2032-01,0
+rare-06,Rare,lumpy,2032-02,0
+rare-06,Rare,lumpy,2032-03,0
+rare-06,Rare,lumpy,2032-04,0
+rare-06,Rare,lumpy,2032-05,0
+rare-06,Rare,lumpy,2032-06,3
+rare-06,Rare,lumpy,2032-07,0
+rare-06,Rare,lumpy,2032-08,0
+rare-06,Rare,lumpy,2032-09,0
+rare-06,Rare,lumpy,2032-10,0
+rare-06,Rare,lumpy,2032-11,0
+rare-06,Rare,lumpy,2032-12,0
+rare-07,Rare,lumpy,2031-01,0
+rare-07,Rare,lumpy,2031-02,1
+rare-07,Rare,lumpy,2031-03,0
+rare-07,Rare,lumpy,2031-04,8
+rare-07,Rare,lumpy,2031-05,0
+rare-07,Rare,lumpy,2031-06,0
+rare-07,Rare,lumpy,2031-07,0
+rare-07,Rare,lumpy,2031-08,0
+rare-07,Rare,lumpy,2031-09,0
+rare-07,Rare,lumpy,2031-10,0
+rare-07,Rare,lumpy,2031-11,0
+rare-07,Rare,lumpy,2031-12,0
+rare-07,Rare,lumpy,2032-01,0
+rare-07,Rare,lumpy,2032-02,0
+rare-07,Rare,lumpy,2032-03,0
+rare-07,Rare,lumpy,2032-04,0
+rare-07,Rare,lumpy,2032-05,0
+rare-07,Rare,lumpy,2032-06,0
+rare-07,Rare,lumpy,2032-07,0
+rare-07,Rare,lumpy,2032-08,0
+rare-07,Rare,lumpy,2032-09,0
+rare-07,Rare,lumpy,2032-10,0
+rare-07,Rare,lumpy,2032-11,0
+rare-07,Rare,lumpy,2032-12,0
+rare-08,Rare,lumpy,2031-01,0
+rare-08,Rare,lumpy,2031-02,0
+rare-08,Rare,lumpy,2031-03,0
+rare-08,Rare,lumpy,2031-04,0
+rare-08,Rare,lumpy,2031-05,0
+rare-08,Rare,lumpy,2031-06,0
+rare-08,Rare,lumpy,2031-07,2
+rare-08,Rare,lumpy,2031-08,0
+rare-08,Rare,lumpy,2031-09,0
+rare-08,Rare,lumpy,2031-10,0
+rare-08,Rare,lumpy,2031-11,0
+rare-08,Rare,lumpy,2031-12,0
+rare-08,Rare,lumpy,2032-01,0
+rare-08,Rare,lumpy,2032-02,3
+rare-08,Rare,lumpy,2032-03,0
+rare-08,Rare,lumpy,2032-04,0
+rare-08,Rare,lumpy,2032-05,0
+rare-08,Rare,lumpy,2032-06,0
+rare-08,Rare,lumpy,2032-07,0
+rare-08,Rare,lumpy,2032-08,1
+rare-08,Rare,lumpy,2032-09,0
+rare-08,Rare,lumpy,2032-10,0
+rare-08,Rare,lumpy,2032-11,0
+rare-08,Rare,lumpy,2032-12,0
+rare-09,Rare,lumpy,2031-01,0
+rare-09,Rare,lumpy,2031-02,0
+rare-09,Rare,lumpy,2031-03,0
+rare-09,Rare,lumpy,2031-04,4
+rare-09,Rare,lumpy,2031-05,1
+rare-09,Rare,lumpy,2031-06,0
+rare-09,Rare,lumpy,2031-07,0
+rare-09,Rare,lumpy,2031-08,0
+rare-09,Rare,lumpy,2031-09,2
+rare-09,Rare,lumpy,2031-10,0
+rare-09,Rare,lumpy,2031-11,0
+rare-09,Rare,lumpy,2031-12,0
+rare-09,Rare,lumpy,2032-01,0
+rare-09,Rare,lumpy,2032-02,0
+rare-09,Rare,lumpy,2032-03,0
+rare-09,Rare,lumpy,2032-04,0
+rare-09,Rare,lumpy,2032-05,0
+rare-09,Rare,lumpy,2032-06,0
+rare-09,Rare,lumpy,2032-07,0
+rare-09,Rare,lumpy,2032-08,0
+rare-09,Rare,lumpy,2032-09,0
+rare-09,Rare,lumpy,2032-10,0
+rare-09,Rare,lumpy,2032-11,0
+rare-09,Rare,lumpy,2032-12,0
+rare-10,Rare,lumpy,2031-01,0
+rare-10,Rare,lumpy,2031-02,0
+rare-10,Rare,lumpy,2031-03,0
+rare-10,Rare,lumpy,2031-04,0
+rare-10,Rare,lumpy,2031-05,0
+rare-10,Rare,lumpy,2031-06,0
+rare-10,Rare,lumpy,2031-07,0
+rare-10,Rare,lumpy,2031-08,0
+rare-10,Rare,lumpy,2031-09,0
+rare-10,Rare,lumpy,2031-10,0
+rare-10,Rare,lumpy,2031-11,0
+rare-10,Rare,lumpy,2031-12,0
+rare-10,Rare,lumpy,2032-01,0
+rare-10,Rare,lumpy,2032-02,0
+rare-10,Rare,lumpy,2032-03,0
+rare-10,Rare,lumpy,2032-04,0
+rare-10,Rare,lumpy,2032-05,0
+rare-10,Rare,lumpy,2032-06,0
+rare-10,Rare,lumpy,2032-07,0
+rare-10,Rare,lumpy,2032-08,0
+rare-10,Rare,lumpy,2032-09,1
+rare-10,Rare,lumpy,2032-10,0
+rare-10,Rare,lumpy,2032-11,0
+rare-10,Rare,lumpy,2032-12,0
+rare-11,Rare,lumpy,2031-01,0
+rare-11,Rare,lumpy,2031-02,0
+rare-11,Rare,lumpy,2031-03,0
+rare-11,Rare,lumpy,2031-04,0
+rare-11,Rare,lumpy,2031-05,14
+rare-11,Rare,lumpy,2031-06,0
+rare-11,Rare,lumpy,2031-07,0
+rare-11,Rare,lumpy,2031-08,0
+rare-11,Rare,lumpy,2031-09,1
+rare-11,Rare,lumpy,2031-10,0
+rare-11,Rare,lumpy,2031-11,4
+rare-11,Rare,lumpy,2031-12,0
+rare-11,Rare,lumpy,2032-01,7
+rare-11,Rare,lumpy,2032-02,0
+rare-11,Rare,lumpy,2032-03,0
+rare-11,Rare,lumpy,2032-04,0
+rare-11,Rare,lumpy,2032-05,0
+rare-11,Rare,lumpy,2032-06,0
+rare-11,Rare,lumpy,2032-07,0
+rare-11,Rare,lumpy,2032-08,0
+rare-11,Rare,lumpy,2032-09,1
+rare-11,Rare,lumpy,2032-10,1
+rare-11,Rare,lumpy,2032-11,0
+rare-11,Rare,lumpy,2032-12,0
+rare-12,Rare,lumpy,2031-01,0
+rare-12,Rare,lumpy,2031-02,0
+rare-12,Rare,lumpy,2031-03,0
+rare-12,Rare,lumpy,2031-04,0
+rare-12,Rare,lumpy,2031-05,0
+rare-12,Rare,lumpy,2031-06,0
+rare-12,Rare,lumpy,2031-07,1
+rare-12,Rare,lumpy,2031-08,0
+rare-12,Rare,lumpy,2031-09,0
+rare-12,Rare,lumpy,2031-10,0
+rare-12,Rare,lumpy,2031-11,0
+rare-12,Rare,lumpy,2031-12,0
+rare-12,Rare,lumpy,2032-01,1
+rare-12,Rare,lumpy,2032-02,1
+rare-12,Rare,lumpy,2032-03,0
+rare-12,Rare,lumpy,2032-04,3
+rare-12,Rare,lumpy,2032-05,6
+rare-12,Rare,lumpy,2032-06,0
+rare-12,Rare,lumpy,2032-07,0
+rare-12,Rare,lumpy,2032-08,0
+rare-12,Rare,lumpy,2032-09,0
+rare-12,Rare,lumpy,2032-10,0
+rare-12,Rare,lumpy,2032-11,0
+rare-12,Rare,lumpy,2032-12,0
+rare-13,Rare,lumpy,2031-01,0
+rare-13,Rare,lumpy,2031-02,0
+rare-13,Rare,lumpy,2031-03,0
+rare-13,Rare,lumpy,2031-04,0
+rare-13,Rare,lumpy,2031-05,0
+rare-13,Rare,lumpy,2031-06,0
+rare-13,Rare,lumpy,2031-07,0
+rare-13,Rare,lumpy,2031-08,0
+rare-13,Rare,lumpy,2031-09,7
+rare-13,Rare,lumpy,2031-10,0
+rare-13,Rare,lumpy,2031-11,0
+rare-13,Rare,lumpy,2031-12,0
+rare-13,Rare,lumpy,2032-01,0
+rare-13,Rare,lumpy,2032-02,0
+rare-13,Rare,lumpy,2032-03,0
+rare-13,Rare,lumpy,2032-04,0
+rare-13,Rare,lumpy,2032-05,0
+rare-13,Rare,lumpy,2032-06,0
+rare-13,Rare,lumpy,2032-07,0
+rare-13,Rare,lumpy,2032-08,0
+rare-13,Rare,lumpy,2032-09,0
+rare-13,Rare,lumpy,2032-10,0
+rare-13,Rare,lumpy,2032-11,0
+rare-13,Rare,lumpy,2032-12,0
+rare-14,Rare,lumpy,2031-01,0
+rare-14,Rare,lumpy,2031-02,0
+rare-14,Rare,lumpy,2031-03,0
+rare-14,Rare,lumpy,2031-04,0
+rare-14,Rare,lumpy,2031-05,0
+rare-14,Rare,lumpy,2031-06,0
+rare-14,Rare,lumpy,2031-07,0
+rare-14,Rare,lumpy,2031-08,0
+rare-14,Rare,lumpy,2031-09,1
+rare-14,Rare,lumpy,2031-10,0
+rare-14,Rare,lumpy,2031-11,0
+rare-14,Rare,lumpy,2031-12,29
+rare-14,Rare,lumpy,2032-01,3
+rare-14,Rare,lumpy,2032-02,0
+rare-14,Rare,lumpy,2032-03,0
+rare-14,Rare,lumpy,2032-04,0
+rare-14,Rare,lumpy,2032-05,0
+rare-14,Rare,lumpy,2032-06,0
+rare-14,Rare,lumpy,2032-07,0
+rare-14,Rare,lumpy,2032-08,0
+rare-14,Rare,lumpy,2032-09,0
+rare-14,Rare,lumpy,2032-10,0
+rare-14,Rare,lumpy,2032-11,1
+rare-14,Rare,lumpy,2032-12,0
+rare-15,Rare,lumpy,2031-01,0
+rare-15,Rare,lumpy,2031-02,0
+rare-15,Rare,lumpy,2031-03,1
+rare-15,Rare,lumpy,2031-04,0
+rare-15,Rare,lumpy,2031-05,0
+rare-15,Rare,lumpy,2031-06,0
+rare-15,Rare,lumpy,2031-07,0
+rare-15,Rare,lumpy,2031-08,0
+rare-15,Rare,lumpy,2031-09,0
+rare-15,Rare,lumpy,2031-10,0
+rare-15,Rare,lumpy,2031-11,0
+rare-15,Rare,lumpy,2031-12,0
+rare-15,Rare,lumpy,2032-01,2
+rare-15,Rare,lumpy,2032-02,0
+rare-15,Rare,lumpy,2032-03,0
+rare-15,Rare,lumpy,2032-04,0
+rare-15,Rare,lumpy,2032-05,0
+rare-15,Rare,lumpy,2032-06,0
+rare-15,Rare,lumpy,2032-07,0
+rare-15,Rare,lumpy,2032-08,0
+rare-15,Rare,lumpy,2032-09,0
+rare-15,Rare,lumpy,2032-10,0
+rare-15,Rare,lumpy,2032-11,0
+rare-15,Rare,lumpy,2032-12,0
+rare-16,Rare,lumpy,2031-01,0
+rare-16,Rare,lumpy,2031-02,0
+rare-16,Rare,lumpy,2031-03,0
+rare-16,Rare,lumpy,2031-04,0
+rare-16,Rare,lumpy,2031-05,0
+rare-16,Rare,lumpy,2031-06,1
+rare-16,Rare,lumpy,2031-07,0
+rare-16,Rare,lumpy,2031-08,0
+rare-16,Rare,lumpy,2031-09,0
+rare-16,Rare,lumpy,2031-10,0
+rare-16,Rare,lumpy,2031-11,0
+rare-16,Rare,lumpy,2031-12,0
+rare-16,Rare,lumpy,2032-01,0
+rare-16,Rare,lumpy,2032-02,0
+rare-16,Rare,lumpy,2032-03,0
+rare-16,Rare,lumpy,2032-04,1
+rare-16,Rare,lumpy,2032-05,0
+rare-16,Rare,lumpy,2032-06,1
+rare-16,Rare,lumpy,2032-07,0
+rare-16,Rare,lumpy,2032-08,0
+rare-16,Rare,lumpy,2032-09,0
+rare-16,Rare,lumpy,2032-10,0
+rare-16,Rare,lumpy,2032-11,8
+rare-16,Rare,lumpy,2032-12,0
+rare-17,Rare,lumpy,2031-01,0
+rare-17,Rare,lumpy,2031-02,0
+rare-17,Rare,lumpy,2031-03,2
+rare-17,Rare,lumpy,2031-04,0
+rare-17,Rare,lumpy,2031-05,2
+rare-17,Rare,lumpy,2031-06,1
+rare-17,Rare,lumpy,2031-07,0
+rare-17,Rare,lumpy,2031-08,0
+rare-17,Rare,lumpy,2031-09,2
+rare-17,Rare,lumpy,2031-10,0
+rare-17,Rare,lumpy,2031-11,0
+rare-17,Rare,lumpy,2031-12,0
+rare-17,Rare,lumpy,2032-01,0
+rare-17,Rare,lumpy,2032-02,0
+rare-17,Rare,lumpy,2032-03,0
+rare-17,Rare,lumpy,2032-04,0
+rare-17,Rare,lumpy,2032-05,0
+rare-17,Rare,lumpy,2032-06,0
+rare-17,Rare,lumpy,2032-07,0
+rare-17,Rare,lumpy,2032-08,0
+rare-17,Rare,lumpy,2032-09,0
+rare-17,Rare,lumpy,2032-10,6
+rare-17,Rare,lumpy,2032-11,0
+rare-17,Rare,lumpy,2032-12,0
+rare-18,Rare,lumpy,2031-01,0
+rare-18,Rare,lumpy,2031-02,0
+rare-18,Rare,lumpy,2031-03,0
+rare-18,Rare,lumpy,2031-04,0
+rare-18,Rare,lumpy,2031-05,0
+rare-18,Rare,lumpy,2031-06,1
+rare-18,Rare,lumpy,2031-07,0
+rare-18,Rare,lumpy,2031-08,0
+rare-18,Rare,lumpy,2031-09,0
+rare-18,Rare,lumpy,2031-10,0
+rare-18,Rare,lumpy,2031-11,0
+rare-18,Rare,lumpy,2031-12,0
+rare-18,Rare,lumpy,2032-01,0
+rare-18,Rare,lumpy,2032-02,0
+rare-18,Rare,lumpy,2032-03,0
+rare-18,Rare,lumpy,2032-04,0
+rare-18,Rare,lumpy,2032-05,0
+rare-18,Rare,lumpy,2032-06,0
+rare-18,Rare,lumpy,2032-07,0
+rare-18,Rare,lumpy,2032-08,0
+rare-18,Rare,lumpy,2032-09,0
+rare-18,Rare,lumpy,2032-10,0
+rare-18,Rare,lumpy,2032-11,0
+rare-18,Rare,lumpy,2032-12,0
+rare-19,Rare,lumpy,2031-01,0
+rare-19,Rare,lumpy,2031-02,0
+rare-19,Rare,lumpy,2031-03,0
+rare-19,Rare,lumpy,2031-04,0
+rare-19,Rare,lumpy,2031-05,0
+rare-19,Rare,lumpy,2031-06,0
+rare-19,Rare,lumpy,2031-07,0
+rare-19,Rare,lumpy,2031-08,0
+rare-19,Rare,lumpy,2031-09,0
+rare-19,Rare,lumpy,2031-10,0
+rare-19,Rare,lumpy,2031-11,1
+rare-19,Rare,lumpy,2031-12,0
+rare-19,Rare,lumpy,2032-01,0
+rare-19,Rare,lumpy,2032-02,0
+rare-19,Rare,lumpy,2032-03,0
+rare-19,Rare,lumpy,2032-04,0
+rare-19,Rare,lumpy,2032-05,0
+rare-19,Rare,lumpy,2032-06,0
+rare-19,Rare,lumpy,2032-07,0
+rare-19,Rare,lumpy,2032-08,0
+rare-19,Rare,lumpy,2032-09,0
+rare-19,Rare,lumpy,2032-10,0
+rare-19,Rare,lumpy,2032-11,0
+rare-19,Rare,lumpy,2032-12,0
+rare-20,Rare,lumpy,2031-01,0
+rare-20,Rare,lumpy,2031-02,0
+rare-20,Rare,lumpy,2031-03,0
+rare-20,Rare,lumpy,2031-04,0
+rare-20,Rare,lumpy,2031-05,0
+rare-20,Rare,lumpy,2031-06,2
+rare-20,Rare,lumpy,2031-07,0
+rare-20,Rare,lumpy,2031-08,0
+rare-20,Rare,lumpy,2031-09,0
+rare-20,Rare,lumpy,2031-10,0
+rare-20,Rare,lumpy,2031-11,3
+rare-20,Rare,lumpy,2031-12,0
+rare-20,Rare,lumpy,2032-01,0
+rare-20,Rare,lumpy,2032-02,0
+rare-20,Rare,lumpy,2032-03,0
+rare-20,Rare,lumpy,2032-04,0
+rare-20,Rare,lumpy,2032-05,6
+rare-20,Rare,lumpy,2032-06,0
+rare-20,Rare,lumpy,2032-07,0
+rare-20,Rare,lumpy,2032-08,0
+rare-20,Rare,lumpy,2032-09,0
+rare-20,Rare,lumpy,2032-10,0
+rare-20,Rare,lumpy,2032-11,0
+rare-20,Rare,lumpy,2032-12,0
+rare-21,Rare,lumpy,2031-01,0
+rare-21,Rare,lumpy,2031-02,0
+rare-21,Rare,lumpy,2031-03,0
+rare-21,Rare,lumpy,2031-04,5
+rare-21,Rare,lumpy,2031-05,0
+rare-21,Rare,lumpy,2031-06,0
+rare-21,Rare,lumpy,2031-07,0
+rare-21,Rare,lumpy,2031-08,1
+rare-21,Rare,lumpy,2031-09,4
+rare-21,Rare,lumpy,2031-10,0
+rare-21,Rare,lumpy,2031-11,0
+rare-21,Rare,lumpy,2031-12,0
+rare-21,Rare,lumpy,2032-01,0
+rare-21,Rare,lumpy,2032-02,0
+rare-21,Rare,lumpy,2032-03,0
+rare-21,Rare,lumpy,2032-04,0
+rare-21,Rare,lumpy,2032-05,0
+rare-21,Rare,lumpy,2032-06,0
+rare-21,Rare,lumpy,2032-07,0
+rare-21,Rare,lumpy,2032-08,0
+rare-21,Rare,lumpy,2032-09,0
+rare-21,Rare,lumpy,2032-10,0
+rare-21,Rare,lumpy,2032-11,0
+rare-21,Rare,lumpy,2032-12,0
+rare-22,Rare,lumpy,2031-01,0
+rare-22,Rare,lumpy,2031-02,0
+rare-22,Rare,lumpy,2031-03,0
+rare-22,Rare,lumpy,2031-04,2
+rare-22,Rare,lumpy,2031-05,0
+rare-22,Rare,lumpy,2031-06,2
+rare-22,Rare,lumpy,2031-07,0
+rare-22,Rare,lumpy,2031-08,1
+rare-22,Rare,lumpy,2031-09,0
+rare-22,Rare,lumpy,2031-10,0
+rare-22,Rare,lumpy,2031-11,0
+rare-22,Rare,lumpy,2031-12,0
+rare-22,Rare,lumpy,2032-01,0
+rare-22,Rare,lumpy,2032-02,0
+rare-22,Rare,lumpy,2032-03,0
+rare-22,Rare,lumpy,2032-04,0
+rare-22,Rare,lumpy,2032-05,0
+rare-22,Rare,lumpy,2032-06,0
+rare-22,Rare,lumpy,2032-07,0
+rare-22,Rare,lumpy,2032-08,0
+rare-22,Rare,lumpy,2032-09,0
+rare-22,Rare,lumpy,2032-10,0
+rare-22,Rare,lumpy,2032-11,0
+rare-22,Rare,lumpy,2032-12,0
+rare-23,Rare,lumpy,2031-01,0
+rare-23,Rare,lumpy,2031-02,3
+rare-23,Rare,lumpy,2031-03,0
+rare-23,Rare,lumpy,2031-04,1
+rare-23,Rare,lumpy,2031-05,0
+rare-23,Rare,lumpy,2031-06,0
+rare-23,Rare,lumpy,2031-07,0
+rare-23,Rare,lumpy,2031-08,2
+rare-23,Rare,lumpy,2031-09,0
+rare-23,Rare,lumpy,2031-10,0
+rare-23,Rare,lumpy,2031-11,0
+rare-23,Rare,lumpy,2031-12,0
+rare-23,Rare,lumpy,2032-01,0
+rare-23,Rare,lumpy,2032-02,0
+rare-23,Rare,lumpy,2032-03,0
+rare-23,Rare,lumpy,2032-04,2
+rare-23,Rare,lumpy,2032-05,0
+rare-23,Rare,lumpy,2032-06,0
+rare-23,Rare,lumpy,2032-07,0
+rare-23,Rare,lumpy,2032-08,0
+rare-23,Rare,lumpy,2032-09,0
+rare-23,Rare,lumpy,2032-10,0
+rare-23,Rare,lumpy,2032-11,0
+rare-23,Rare,lumpy,2032-12,0
+rare-24,Rare,lumpy,2031-01,0
+rare-24,Rare,lumpy,2031-02,0
+rare-24,Rare,lumpy,2031-03,0
+rare-24,Rare,lumpy,2031-04,0
+rare-24,Rare,lumpy,2031-05,0
+rare-24,Rare,lumpy,2031-06,0
+rare-24,Rare,lumpy,2031-07,0
+rare-24,Rare,lumpy,2031-08,3
+rare-24,Rare,lumpy,2031-09,0
+rare-24,Rare,lumpy,2031-10,0
+rare-24,Rare,lumpy,2031-11,0
+rare-24,Rare,lumpy,2031-12,0
+rare-24,Rare,lumpy,2032-01,0
+rare-24,Rare,lumpy,2032-02,0
+rare-24,Rare,lumpy,2032-03,0
+rare-24,Rare,lumpy,2032-04,0
+rare-24,Rare,lumpy,2032-05,0
+rare-24,Rare,lumpy,2032-06,0
+rare-24,Rare,lumpy,2032-07,0
+rare-24,Rare,lumpy,2032-08,0
+rare-24,Rare,lumpy,2032-09,2
+rare-24,Rare,lumpy,2032-10,0
+rare-24,Rare,lumpy,2032-11,0
+rare-24,Rare,lumpy,2032-12,0

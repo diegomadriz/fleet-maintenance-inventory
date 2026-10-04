@@ -1,0 +1,34 @@
+{
+  "aft_model_counts": {
+    "AFT": 17,
+    "no_fit": 20
+  },
+  "confidence_counts": {
+    "ESTIMATED": 146,
+    "HIGH": 228,
+    "LOW": 44,
+    "MEDIUM": 194
+  },
+  "corrective_parts_modeled": 39,
+  "demand_class_counts": {
+    "erratic": 6,
+    "lumpy": 36,
+    "smooth": 5
+  },
+  "holdout_months": 6,
+  "inventory_policy_rows": 156,
+  "label": "replica results",
+  "maintenance_pairs": 627,
+  "parts_evaluated": 54,
+  "preferred_model_counts": {
+    "Croston-SBA": 22,
+    "Weibull": 17
+  },
+  "schedule_status_counts": {
+    "DUE SOON": 38,
+    "OK": 338,
+    "OVERDUE": 236,
+    "UNKNOWN": 15
+  },
+  "train_months": 18
+}

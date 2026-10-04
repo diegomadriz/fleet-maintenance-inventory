@@ -1,0 +1,55 @@
+part_id,part_name,part_family,demand_class,corrective
+drive-tire,Drive tire,Named example,lumpy,True
+mixer-drum-bearing,Mixer drum bearing,Named example,lumpy,True
+chute-hook--band,Chute hook & band,Named example,lumpy,True
+battery,Battery,Named example,lumpy,True
+filter,Filter,Named example,lumpy,False
+u-joint,U-joint,Named example,lumpy,True
+air-valve,Air valve,Named example,erratic,True
+part-01,Other part 01,Other,smooth,True
+part-02,Other part 02,Other,smooth,True
+part-03,Other part 03,Other,lumpy,True
+part-04,Other part 04,Other,lumpy,True
+part-05,Other part 05,Other,lumpy,True
+part-06,Other part 06,Other,lumpy,True
+part-07,Other part 07,Other,erratic,True
+part-08,Other part 08,Other,smooth,False
+part-09,Other part 09,Other,lumpy,True
+part-10,Other part 10,Other,smooth,False
+part-11,Other part 11,Other,lumpy,True
+part-12,Other part 12,Other,erratic,True
+part-13,Other part 13,Other,lumpy,False
+part-14,Other part 14,Other,lumpy,False
+part-15,Other part 15,Other,smooth,False
+part-16,Other part 16,Other,lumpy,False
+part-17,Other part 17,Other,lumpy,False
+part-18,Other part 18,Other,erratic,False
+part-19,Other part 19,Other,lumpy,False
+part-20,Other part 20,Other,lumpy,False
+part-21,Other part 21,Other,lumpy,False
+part-22,Other part 22,Other,erratic,False
+part-23,Other part 23,Other,lumpy,False
+rare-01,Rare part 01,Rare,lumpy,True
+rare-02,Rare part 02,Rare,lumpy,True
+rare-03,Rare part 03,Rare,lumpy,True
+rare-04,Rare part 04,Rare,lumpy,True
+rare-05,Rare part 05,Rare,lumpy,True
+rare-06,Rare part 06,Rare,lumpy,True
+rare-07,Rare part 07,Rare,lumpy,True
+rare-08,Rare part 08,Rare,lumpy,True
+rare-09,Rare part 09,Rare,lumpy,True
+rare-10,Rare part 10,Rare,lumpy,True
+rare-11,Rare part 11,Rare,lumpy,True
+rare-12,Rare part 12,Rare,lumpy,True
+rare-13,Rare part 13,Rare,lumpy,True
+rare-14,Rare part 14,Rare,lumpy,True
+rare-15,Rare part 15,Rare,lumpy,True
+rare-16,Rare part 16,Rare,lumpy,True
+rare-17,Rare part 17,Rare,lumpy,True
+rare-18,Rare part 18,Rare,lumpy,True
+rare-19,Rare part 19,Rare,lumpy,True
+rare-20,Rare part 20,Rare,lumpy,True
+rare-21,Rare part 21,Rare,lumpy,True
+rare-22,Rare part 22,Rare,lumpy,True
+rare-23,Rare part 23,Rare,lumpy,True
+rare-24,Rare part 24,Rare,lumpy,True

@@ -1,0 +1,18 @@
+{
+  "excluded_months": [],
+  "reference_year": 2032,
+  "forecast_train_months": 18,
+  "croston_alpha": 0.15,
+  "service_level": 0.95,
+  "lead_times_days": [
+    5,
+    10,
+    15,
+    30
+  ],
+  "review_days": 30,
+  "inventory_scope": "corrective",
+  "fleet_hours_fallback": "derive_from_replica",
+  "truck_count_fallback": "derive_from_replica",
+  "notes": "Complete calendar demand panels retain zero months. Corrective parts with no in-calendar demand are excluded from inventory policy; earlier replacement events supply reliability history only."
+}
