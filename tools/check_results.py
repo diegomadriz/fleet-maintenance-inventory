@@ -52,7 +52,16 @@ for csv in sorted(saved.glob("*.csv")):
                     f"{csv.name}:{column}: {int(bad.sum())} rows differ, max relative {worst:.2e}"
                 )
         elif not e.fillna("").astype(str).equals(o.fillna("").astype(str)):
-            problems.append(f"{csv.name}:{column}: text values differ")
+            # JSON-encoded numbers (for example coefficient dictionaries) compare with tolerance.
+            before = len(problems)
+            for i, (x, y) in enumerate(zip(e.fillna(""), o.fillna(""), strict=True)):
+                try:
+                    compare_json(json.loads(x), json.loads(y), f"{csv.name}:{column}[{i}]")
+                except (TypeError, ValueError):
+                    if x != y:
+                        problems.append(f"{csv.name}:{column}[{i}]: text values differ")
+            if len(problems) > before:
+                problems[before:] = problems[before : before + 5]
     count += 1
 
 compare_json(
